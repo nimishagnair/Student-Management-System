@@ -42,5 +42,10 @@ This application provides the following capabilities:
 
 ---
 
-## 📦 Project Structure
+## Limitations
+- Data is not persisted between runs (in-memory storage only)
+- Fixed maximum of 100 students
+- Exactly 5 subjects required per student examination
+
+---
 
